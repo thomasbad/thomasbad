@@ -33,10 +33,6 @@
   <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/thomasbad/thomasbad"></a> hipsters and geeks have come here to see nothing vauleable, take my honor o7
-</p>
-
 <!--
 **thomasbad/thomasbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
