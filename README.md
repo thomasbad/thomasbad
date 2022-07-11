@@ -36,7 +36,7 @@
 </p>
 
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbad&layout=compact)]</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbad&layout=compact)]
 
 
 <!--
