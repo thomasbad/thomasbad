@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-<a href="#"> <img src="https://tryhackme-badges.s3.amazonaws.com/thomasbad.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/thomasbad"> <img src="https://tryhackme-badges.s3.amazonaws.com/thomasbad.png" alt="TryHackMe Profile Badge"></a>
 </p>
 
 <p align='center'>
